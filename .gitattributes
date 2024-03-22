@@ -1,0 +1,5 @@
+*.asm text eol=lf
+*.s text eol=lf
+*.inc text eol=lf
+
+/build.sh text eol=lf

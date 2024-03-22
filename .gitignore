@@ -1,0 +1,11 @@
+*.o
+*.exe
+*.elf
+
+/build
+/bin
+/obj
+
+*~
+*.bak
+*.tmp
