@@ -33,3 +33,4 @@ end_loop:
 addi a7, x0, 4
 la a0, text_success
 ecall
+

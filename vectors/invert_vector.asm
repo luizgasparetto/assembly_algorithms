@@ -1,6 +1,7 @@
 .data
 vetor: .word 1, 2, 3, 4, 5
-size_vetor: .word 5                
+size_vetor: .word 5   
+matrix: .word vetor, vetor, vetor             
 success_message: .asciz "\nVetor lido com sucesso!\n"
 
 .text
